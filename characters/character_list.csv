@@ -1,0 +1,11 @@
+Number, Sex,     Race,     Class,                            Name, Age, Height, Weight (lbs), Starting Gold
+     1,   M,    Human,   Paladin, John Jacob Jingleheimer Schmidt,  16,   6'3",          222,           160
+     2,   M, Half-Orc,      Monk, John Jacob Jingleheimer Schmidt,  19,   5'6",          190,            11
+     3,   M,    Gnome,      Bard, John Jacob Jingleheimer Schmidt,  54,   3'4",           44,           100
+     4,   F,    Dwarf, Barbarian,            Barabal Skatwikhelam,  50,   4'2",          170,           110
+     5,   F,      Elf,   Fighter,                  Liara Amakerym, 129,   5'5",          104,           130
+     6,   M, Half-Elf,     Rogue,               Gregory Arpovalto,  24,   5'4",          136,           130
+     7,   F,    Human,    Ranger,                  Reyna Ferchero,  19,   4'8",           97,           160
+     8,   M, Halfling,    Cleric, John Jacob Jingleheimer Schmidt,  39,   3'0",           34,           120
+     9,   M,    Gnome,     Druid,            Hickory Dickory Dock,  79,   3'5",           45,            60
+    10,   F,      Elf,    Wizard,                Eskarina Sintamo, 151,   5'4",          135,           110
